@@ -1,0 +1,11 @@
+#!usr/bin/env bash
+# A bash script to ping IP address passed as an argument
+
+msg = Usage: 5-is_the_host_on_the_network {IP_ADDRESS}
+
+if [ -z "$1" ]
+then
+    echo "Usage: 5-is_the_host_on_the_network {IP_ADDRESS}
+else
+    ping $1
+fi

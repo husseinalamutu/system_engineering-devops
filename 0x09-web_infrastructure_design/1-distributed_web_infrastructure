@@ -1,0 +1,5 @@
+https://drive.google.com/file/d/1DTMjrc9SQFA-HKY_UoSEjtCD2Y8Y4Sq3/view?usp=sharing
+"""
+I added an HAproxy balancer to enable traffic distribution between the two servers
+for lower latency and higher throughput
+"""

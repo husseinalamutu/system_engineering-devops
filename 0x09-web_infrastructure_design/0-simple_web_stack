@@ -1,0 +1,7 @@
+https://drive.google.com/file/d/100ubJmXD4JypDRRwHOssIdq4ElGmiW8B/view?usp=sharing
+"""
+In the above architecture there is a single point of failure 
+due to the lack of self healing capabilities or backup.
+It also don't have scaling capabilities since it has no 
+load balancer nor api gateway to redirect traffic
+"""
